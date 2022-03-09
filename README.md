@@ -32,24 +32,24 @@ Les utilisateurs non enregistrés sur l'application auront accès à une page le
 
 La BDD sera constituée sous PostgreSQL, composée des éléments suivants (“models” sous Rails) :
 
-_Users/Admins_
+***Users/Admins***
 
 Il sera possible de parcourir l’application de trois manières différentes :
 Utilisation sans connexion  ; 
 Utilisation via un compte User Premium
 Utilisation via un compte Admin (gestion des articles/évènements, des utilisateurs et des commentaires).
 
-Articles
+***Articles***
 
 Seul l’Admin aura la possibilité de poster des articles et événements.
 
-Comments
+***Comments***
 
 Il sera possible (sous compte User Premium) de commenter les Articles.
 Ces comments pourront à leur tour être commentés par un User Premium.
 En revanche, le contenu des comments pourra être vérifié par l’application et géré par l’Admin afin d’empêcher l’utilisation de mots portant atteinte aux règles de bonne conduite au sein d’une communauté d’internautes (insultes, …etc) 
 
-Events
+***Events***
 
 Ces éléments seront connectés les uns aux autres après une étude en équipe du ActiveRecordAssociation (module Rails)  le plus pertinent pour rendre l’application fonctionnelle, et ce via l’outil Lucidchart.
 
