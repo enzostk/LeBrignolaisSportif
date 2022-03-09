@@ -7,7 +7,7 @@
 
 La ville de Brignoles regorge d'activités et même de potentiels qui ne sont que trop peu souvent mis en avant. L'idée du Brignolais sportif est donc de rencontrer, de faire découvrir, d'exposer toutes ces associations sportives qui enrichissent la capitale de la Provence Verte ainsi que les femmes, les enfants et les hommes passionnés qui les font vivre. A travers ce journal, l'ensemble des associations sportives brignolaises référencées comme telles, seront mises en lumière ainsi que leurs milliers de licenciés, dirigeants et bénévoles actifs. Ce journal a pour objectif de partager, de faire connaître et d'inviter à découvrir ces clubs et ces personnes qui font vivre notre ville par le sport associatif.
 
-Le but de notre projet est de rendre une application fonctionnelle pour ce journal, qui est principalement actif via sa page Facebook. Cette application pourra être utilisée par tous les utilisateurs de ce réseau afin de pouvoir parcourir les évènements passés/à venir, échanger sur les résultats de ces derniers via des commentaires, lire les éditions numériques du journal et recevoir des newsletters avec un condensé des éléments qui ont été publiés récemment sur la plateforme.<br>
+Le but de notre projet est de rendre une application fonctionnelle pour ce journal, qui est principalement actif via sa page Facebook. Cette application pourra être utilisée par tous les utilisateurs de ce réseau afin de pouvoir parcourir les évènements passés/à venir, échanger sur les résultats de ces derniers via des commentaires, lire les éditions numériques du journal et recevoir des newsletters avec un condensé des éléments qui ont été publiés récemment sur la plateforme.<br><br>
 
 
 
@@ -22,7 +22,7 @@ Les utilisateurs premium ont accès à tous les articles et évènements (ainsi 
 
 | Accueil | Articles | Evénements | dropdown: S'enregistrer/Connexion |<br>
 Les utilisateurs non connectés ont accès aux articles et aux événements de la semaine (sans avoir la possibilité de les commenter).
-Les utilisateurs non enregistrés sur l'application auront accès à une page les menant à un formulaire d'inscription; s’inscrire sur le site implique la souscription à un abonnement.<br>
+Les utilisateurs non enregistrés sur l'application auront accès à une page les menant à un formulaire d'inscription; s’inscrire sur le site implique la souscription à un abonnement.<br><br>
 
 
 
@@ -51,7 +51,7 @@ En revanche, le contenu des comments pourra être vérifié par l’application 
 
 ***Events***
 
-Ces éléments seront connectés les uns aux autres après une étude en équipe du ActiveRecordAssociation (module Rails)  le plus pertinent pour rendre l’application fonctionnelle, et ce via l’outil Lucidchart.<br>
+Ces éléments seront connectés les uns aux autres après une étude en équipe du ActiveRecordAssociation (module Rails)  le plus pertinent pour rendre l’application fonctionnelle, et ce via l’outil Lucidchart.<br><br>
 
 
 ### 3.2 Front
@@ -63,7 +63,7 @@ L’application sera désignée sur le thème du sport
 <li>Une couleur dominante évoquant l’atmosphère d’un sport populaire (le vert d’une pelouse d’un stade de foot, ou encore une couleur terre battue faisant écho à terrains de tennis de Roland - Garros ?)</li><br>
 Un Kit UI sera constitué pour fournir la base première de couche CSS de l’application.
 Une utilisation de Bootstrap est à prévoir (navbar, landing page, formulaires, cartes …).
-Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémentaire à l’UX (User Xperience).<br>
+Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémentaire à l’UX (User Xperience).<br><br>
 
 
 ### 3.3 BackEnd
@@ -73,7 +73,7 @@ L’application sera codée via l’utilisation du framework Ruby on Rails, bas�
 <b>Les GEM utilisées:</b>
 <li>Un système d’authentification du User sera mis en oeuvre via la Gem Devise.</li>
 <li>Un système de paiement pour les abonnements sera mis en oeuvre via Stripe, au moyen d’une clé API paramétrée dans l’application.</li>
-<li>Un système d’envoi automatique de mail (inscription, changement de mot de passe, etc…) sera mis en oeuvre via le module ActionMailer de Ruby on Rails, branché sur MailJet.</li><br>
+<li>Un système d’envoi automatique de mail (inscription, changement de mot de passe, etc…) sera mis en oeuvre via le module ActionMailer de Ruby on Rails, branché sur MailJet.</li><br><br>
 
 ### 3.4 L’armée des quatre singes<br>
 
@@ -86,8 +86,8 @@ Voici le troisième membre de notre Dream Team : <b>KHALIFA Samuel</b>, expert a
 ***
 Et pour finir, accueillons : <b>KOUNINEF Loïs</b>, procrastinateur / imposteur en chef, qui ne servira qu’à trouver des synonymes et vérifier l’orthographe.
 ***
-<br>
-## 4 MVP<br>
+<br><br>
+## 4 MVP
 
 Nous prévoyons de livrer une première version minimaliste comprenant les éléments suivants : 
 
@@ -98,7 +98,7 @@ Nous prévoyons de livrer une première version minimaliste comprenant les élé
 <li>Mailer fonctionnel : envoi d’un mail à l’utilisateur (et à l’admin?) lors de l’inscription / de l’abonnement, possibilité de réinitialiser le mot de passe.</li>
 <li>Kit UI basique mais potable.</li>
 <li>Ajout de pages statiques (Partenaires,contacts,archives,albums.. )</li>
-L'envoi de la newsletter hebdomadaire se fera manuellement.<br>
+L'envoi de la newsletter hebdomadaire se fera manuellement.<br><br>
 
 
 ## 5 Version Finale<br>
