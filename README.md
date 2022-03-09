@@ -90,17 +90,16 @@ Et pour finir, accueillons : <b>KOUNINEF Loïs</b>, procrastinateur / imposteur 
 
 ## 4 MVP
 
-	Nous prévoyons de livrer une première version minimaliste comprenant les éléments suivants : 
+Nous prévoyons de livrer une première version minimaliste comprenant les éléments suivants : 
 
-BDD fonctionnelle ;
-Utilisateur : Inscription & connexion (Devise), Remember me, accès à la page profil de l’utilisateur, accès aux articles et aux évènements de la semaine (sans les commentaires), réception d’une newsletter hebdomadaire. Possibilité de s’abonner pour devenir Premium (Stripe).
-Utilisateur premium : Accès à tous les articles et événements (et aux commentaires qui y sont liés), tri par date et/ou catégorie, possibilité de commenter articles et événements.
-Admin : Gestion des Utilisateurs, gestion des commentaires, accès aux commentaires d’un utilisateur en particulier, possibilité de publier articles et événements.
-Mailer fonctionnel : envoi d’un mail à l’utilisateur (et à l’admin?) lors de l’inscription / de l’abonnement, possibilité de réinitialiser le mot de passe.
-Kit UI basique mais potable.
-seed.rb fonctionnel.
+<li>BDD fonctionnelle ;</li>
+</li>Utilisateur : Inscription & connexion (Devise), Remember me, accès à la page profil de l’utilisateur, accès aux articles et aux évènements de la semaine (sans les commentaires), réception d’une newsletter hebdomadaire. Possibilité de s’abonner pour devenir Premium (Stripe).</li>
+</li>Utilisateur premium : Accès à tous les articles et événements (et aux commentaires qui y sont liés), tri par date et/ou catégorie, possibilité de commenter articles et événements.</li>
+</li>Admin : Gestion des Utilisateurs, gestion des commentaires, accès aux commentaires d’un utilisateur en particulier, possibilité de publier articles et événements.</li>
+</li>Mailer fonctionnel : envoi d’un mail à l’utilisateur (et à l’admin?) lors de l’inscription / de l’abonnement, possibilité de réinitialiser le mot de passe.</li>
+</li>Kit UI basique mais potable.</li>
 
-Envoi de la newsletter hebdomadaire manuellement.
+L'envoi de la newsletter hebdomadaire se fera manuellement.
 
 
 ## 5 Version Finale
