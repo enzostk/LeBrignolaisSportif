@@ -37,9 +37,9 @@ La BDD sera constituée sous PostgreSQL, composée des éléments suivants (“m
 ***Users/Admins***
 
 Il sera possible de parcourir l’application de trois manières différentes :
-Utilisation sans connexion  ; 
-Utilisation via un compte User Premium
-Utilisation via un compte Admin (gestion des articles/évènements, des utilisateurs et des commentaires).
+- Utilisation sans connexion  ; 
+- Utilisation via un compte User Premium
+- Utilisation via un compte Admin (gestion des articles/évènements, des utilisateurs et des commentaires).
 
 ***Articles***
 
