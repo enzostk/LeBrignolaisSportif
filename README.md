@@ -2,33 +2,33 @@
 
 						Présentation du Projet “Le Brignolais Sportif”
 ![0X-zJJ4W_400x400](https://user-images.githubusercontent.com/97508821/157406994-75ccff48-8207-496b-9541-00a15b3c6e57.jpg)
-
+<br>
 ## 1 Présentation.
 
 La ville de Brignoles regorge d'activités et même de potentiels qui ne sont que trop peu souvent mis en avant. L'idée du Brignolais sportif est donc de rencontrer, de faire découvrir, d'exposer toutes ces associations sportives qui enrichissent la capitale de la Provence Verte ainsi que les femmes, les enfants et les hommes passionnés qui les font vivre. A travers ce journal, l'ensemble des associations sportives brignolaises référencées comme telles, seront mises en lumière ainsi que leurs milliers de licenciés, dirigeants et bénévoles actifs. Ce journal a pour objectif de partager, de faire connaître et d'inviter à découvrir ces clubs et ces personnes qui font vivre notre ville par le sport associatif.
 
-Le but de notre projet est de rendre une application fonctionnelle pour ce journal, qui est principalement actif via sa page Facebook. Cette application pourra être utilisée par tous les utilisateurs de ce réseau afin de pouvoir parcourir les évènements passés/à venir, échanger sur les résultats de ces derniers via des commentaires, lire les éditions numériques du journal et recevoir des newsletters avec un condensé des éléments qui ont été publiés récemment sur la plateforme.
+Le but de notre projet est de rendre une application fonctionnelle pour ce journal, qui est principalement actif via sa page Facebook. Cette application pourra être utilisée par tous les utilisateurs de ce réseau afin de pouvoir parcourir les évènements passés/à venir, échanger sur les résultats de ces derniers via des commentaires, lire les éditions numériques du journal et recevoir des newsletters avec un condensé des éléments qui ont été publiés récemment sur la plateforme.<br>
 
 
 
-## 2. Parcours utilisateur
+## 2. Parcours utilisateur<br>
 
-### 2.1. Utilisateur premium
+### 2.1. Utilisateur premium<br>
 
 | Accueil | Articles | Evénements | Journal numérique | dropdown: Editer le profil/Se déconnecter |<br>
 Les utilisateurs premium ont accès à tous les articles et évènements (ainsi qu'à leurs commentaires et la possibilité de commenter ceux-ci) ainsi qu’aux versions numériques (parution mensuelle) du journal. Ils auront la possibilité de définir des sports favoris afin d'être informés de la mise en ligne d'un article ou d'un événement de leurs sports favoris.
 
-### 2.2. Utilisateur non-connecté
+### 2.2. Utilisateur non-connecté<br>
 
 | Accueil | Articles | Evénements | dropdown: S'enregistrer/Connexion |<br>
 Les utilisateurs non connectés ont accès aux articles et aux événements de la semaine (sans avoir la possibilité de les commenter).
-Les utilisateurs non enregistrés sur l'application auront accès à une page les menant à un formulaire d'inscription; s’inscrire sur le site implique la souscription à un abonnement.
+Les utilisateurs non enregistrés sur l'application auront accès à une page les menant à un formulaire d'inscription; s’inscrire sur le site implique la souscription à un abonnement.<br>
 
 
 
-## 3 Concrètement et techniquement
+## 3 Concrètement et techniquement<br>
 
-### 3.1 Base de données
+### 3.1 Base de données<br>
 
 La BDD sera constituée sous PostgreSQL, composée des éléments suivants (“models” sous Rails) :
 
@@ -51,7 +51,7 @@ En revanche, le contenu des comments pourra être vérifié par l’application 
 
 ***Events***
 
-Ces éléments seront connectés les uns aux autres après une étude en équipe du ActiveRecordAssociation (module Rails)  le plus pertinent pour rendre l’application fonctionnelle, et ce via l’outil Lucidchart.
+Ces éléments seront connectés les uns aux autres après une étude en équipe du ActiveRecordAssociation (module Rails)  le plus pertinent pour rendre l’application fonctionnelle, et ce via l’outil Lucidchart.<br>
 
 
 ### 3.2 Front
@@ -63,19 +63,19 @@ L’application sera désignée sur le thème du sport
 <li>Une couleur dominante évoquant l’atmosphère d’un sport populaire (le vert d’une pelouse d’un stade de foot, ou encore une couleur terre battue faisant écho à terrains de tennis de Roland - Garros ?)</li><br>
 Un Kit UI sera constitué pour fournir la base première de couche CSS de l’application.
 Une utilisation de Bootstrap est à prévoir (navbar, landing page, formulaires, cartes …).
-Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémentaire à l’UX (User Xperience).
+Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémentaire à l’UX (User Xperience).<br>
 
 
 ### 3.3 BackEnd
 
 L’application sera codée via l’utilisation du framework Ruby on Rails, basé sur le langage RUBY.
-***
+
 <b>Les GEM utilisées:</b>
 <li>Un système d’authentification du User sera mis en oeuvre via la Gem Devise.</li>
 <li>Un système de paiement pour les abonnements sera mis en oeuvre via Stripe, au moyen d’une clé API paramétrée dans l’application.</li>
-<li>Un système d’envoi automatique de mail (inscription, changement de mot de passe, etc…) sera mis en oeuvre via le module ActionMailer de Ruby on Rails, branché sur MailJet.</li>
+<li>Un système d’envoi automatique de mail (inscription, changement de mot de passe, etc…) sera mis en oeuvre via le module ActionMailer de Ruby on Rails, branché sur MailJet.</li><br>
 
-### 3.4 L’armée des quatre singes
+### 3.4 L’armée des quatre singes<br>
 
 ***
 <b>PIERRE-LOUIS Damian</b>, clef de voûte du projet, le seul à avoir atteint le top 1. Optionnellement Top 1 à Pac-Man 99.
@@ -86,8 +86,8 @@ Voici le troisième membre de notre Dream Team : <b>KHALIFA Samuel</b>, expert a
 ***
 Et pour finir, accueillons : <b>KOUNINEF Loïs</b>, procrastinateur / imposteur en chef, qui ne servira qu’à trouver des synonymes et vérifier l’orthographe.
 ***
-
-## 4 MVP
+<br>
+## 4 MVP<br>
 
 Nous prévoyons de livrer une première version minimaliste comprenant les éléments suivants : 
 
@@ -98,10 +98,10 @@ Nous prévoyons de livrer une première version minimaliste comprenant les élé
 <li>Mailer fonctionnel : envoi d’un mail à l’utilisateur (et à l’admin?) lors de l’inscription / de l’abonnement, possibilité de réinitialiser le mot de passe.</li>
 <li>Kit UI basique mais potable.</li>
 <li>Ajout de pages statiques (Partenaires,contacts,archives,albums.. )</li>
-L'envoi de la newsletter hebdomadaire se fera manuellement.
+L'envoi de la newsletter hebdomadaire se fera manuellement.<br>
 
 
-## 5 Version Finale
+## 5 Version Finale<br>
 
 Pour la version finale du site, nous souhaitons implémenter les fonctions suivantes :
 
@@ -120,7 +120,7 @@ Possibilité pour les utilisateurs premium de créer une ‘liste de lecture’ 
 Filtre des commentaires : remplacer les mots ‘indésirables’ par des **** et donner aux utilisateurs la possibilité de signaler un commentaire.
 Scrapping des sites de journaux locaux pour afficher une image contenant le lien vers l’article (= vers le site du journal en question, respect de la propriété intellectuelle).
 
-A terme (= après le rendu de la version finale du projet), nous souhaiterions implémenter un système de cookies publicitaires et/ou de publicité (type "Google Ads") sur le site, qui seraient désactivés pour les utilisateurs premium.
+A terme (= après le rendu de la version finale du projet), nous souhaiterions implémenter un système de cookies publicitaires et/ou de publicité (type "Google Ads") sur le site, qui seraient désactivés pour les utilisateurs premium.<br>
 
 
 ## 6 Notre mentor
