@@ -126,4 +126,4 @@ A terme (= après le rendu de la version finale du projet), nous souhaiterions i
 Notre mentor, vaillant le bien-aimé jeune disciple de Zuckerberg, j’ai nommé Steve, bachelier ingénieur informatique, passionné des métiers du numériques, de robotique et Top 1 à Fortnite.
 Il nous fait l’honneur d’être notre guide, notre lumière dans la pénombre du Ruby et du JS, que nous gravissons ligne par ligne tant bien que mal en espérant voir le bout de cette épique et interminable épopée.
 Conseil et accompagnement il pourvoira, nos larmes il sèchera, un gros billet il encaissera.
-Merci à toi Steve alias @Reiner#5080
+Merci à toi Steve VANDEWIELE alias @Reiner#5080
