@@ -78,7 +78,6 @@ Cookies
 
 ### 3.4 L’armée des quatre singes
 
-Commençons par :<br>
 ***
 PIERRE-LOUIS Damian, clef de voûte du projet, le seul à avoir atteint le top 1. Optionnellement Top 1 à Pac-Man 99.
 ***
