@@ -78,11 +78,16 @@ Cookies
 
 ### 3.4 L’armée des quatre singes
 
-Commençons par : PIERRE-LOUIS Damian, clef de voûte du projet, le seul à avoir atteint le top 1. Optionnellement Top 1 à Pac-Man 99
+Commençons par :<br>
+***
+PIERRE-LOUIS Damian, clef de voûte du projet, le seul à avoir atteint le top 1. Optionnellement Top 1 à Pac-Man 99.
+***
 Laissons la deuxième place à : BONNET Enzo, originellement à l’origine de l’idée originale du projet originel, sportif notoire, humoriste en herbe.
+***
 Voici le troisième membre de notre Dream Team : KHALIFA Samuel, expert auto-désigné du CSS (pour Comptable Super Sage, ou Carrément Soucieux d’être Surinvesti).
+***
 Et pour finir, accueillons : KOUNINEF Loïs, procrastinateur / imposteur en chef, qui ne servira qu’à trouver des synonymes et vérifier l’orthographe.
-
+***
 
 ## 4 MVP
 
