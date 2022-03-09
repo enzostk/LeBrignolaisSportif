@@ -70,11 +70,12 @@ Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémen
 
 L’application sera codée via l’utilisation du framework Ruby on Rails, basé sur le langage RUBY.
 ***
-Devise
-Stripe
-Mailer
-Cookies
-***
+- Les GEM utilisées:
+<li>Devise</li>
+<li>Stripe</li>
+<li>Mailer</li>
+<li>Cookies</li>
+
 
 ### 3.4 L’armée des quatre singes
 
