@@ -71,11 +71,9 @@ Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémen
 L’application sera codée via l’utilisation du framework Ruby on Rails, basé sur le langage RUBY.
 ***
 <b>Les GEM utilisées:</b>
-<li>Devise</li>
-<li>Stripe</li>
-<li>Mailer</li>
-<li>Cookies</li>
-
+<li>Un système d’authentification du User sera mis en oeuvre via la Gem Devise.</li>
+<li>Un système de paiement pour les abonnements sera mis en oeuvre via Stripe, au moyen d’une clé API paramétrée dans l’application.</li>
+<li>Un système d’envoi automatique de mail (inscription, changement de mot de passe, etc…) sera mis en oeuvre via le module ActionMailer de Ruby on Rails, branché sur MailJet.</li>
 
 ### 3.4 L’armée des quatre singes
 
