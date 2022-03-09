@@ -113,7 +113,7 @@ Possibilité pour les utilisateurs premium de commenter les commentaires déjà 
 Possibilité de réagir aux commentaires par une emote (façon Discord).
 Envoi d’un mail lorsque l’abonnement va arriver à expiration.
 
-OPTIONNEL :
+<b>OPTIONNEL :</b>
 
 Afficher les articles et événements sous forme de carrousel ;
 Possibilité pour les utilisateurs premium de créer une ‘liste de lecture’ avec articles et événements.
