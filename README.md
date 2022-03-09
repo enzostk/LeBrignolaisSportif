@@ -70,7 +70,7 @@ Une couche Javascript serait utilisée afin d’apporter un dynamisme supplémen
 
 L’application sera codée via l’utilisation du framework Ruby on Rails, basé sur le langage RUBY.
 ***
-- Les GEM utilisées:
+<b>Les GEM utilisées:</b>
 <li>Devise</li>
 <li>Stripe</li>
 <li>Mailer</li>
@@ -99,7 +99,7 @@ Nous prévoyons de livrer une première version minimaliste comprenant les élé
 <li>Admin : Gestion des Utilisateurs, gestion des commentaires, accès aux commentaires d’un utilisateur en particulier, possibilité de publier articles et événements.</li>
 <li>Mailer fonctionnel : envoi d’un mail à l’utilisateur (et à l’admin?) lors de l’inscription / de l’abonnement, possibilité de réinitialiser le mot de passe.</li>
 <li>Kit UI basique mais potable.</li>
-
+<li>Ajout de pages statiques (Partenaires,contacts,archives,albums.. )</li>
 L'envoi de la newsletter hebdomadaire se fera manuellement.
 
 
