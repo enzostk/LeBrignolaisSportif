@@ -5,9 +5,10 @@ Présentation du Projet “Le Brignolais Sportif”
 
 ## 1 Présentation.
 
-La ville de Brignoles regorge d'activités et même de potentiels qui ne sont que trop peu souvent mis en avant. L'idée du Brignolais sportif est donc de rencontrer, de faire découvrir, d'exposer toutes ces associations sportives qui enrichissent la capitale de la Provence Verte ainsi que les hommes, les femmes et les enfants passionnés qui les font vivre. A travers ce journal, l'ensemble des associations sportives brignolaises référencées comme telles, seront mises en lumière ainsi que leurs milliers de licenciés, dirigeants et bénévoles actifs. Ce journal a pour objectif de partager, de faire connaître et d'inviter à découvrir ces clubs et ces gens qui font vivre notre ville par le sport associatif.
+La ville de Brignoles regorge d'activités et même de potentiels qui ne sont que trop peu souvent mis en avant. L'idée du Brignolais sportif est donc de rencontrer, de faire découvrir, d'exposer toutes ces associations sportives qui enrichissent la capitale de la Provence Verte ainsi que les femmes, les enfants et les hommes passionnés qui les font vivre. A travers ce journal, l'ensemble des associations sportives brignolaises référencées comme telles, seront mises en lumière ainsi que leurs milliers de licenciés, dirigeants et bénévoles actifs. Ce journal a pour objectif de partager, de faire connaître et d'inviter à découvrir ces clubs et ces personnes qui font vivre notre ville par le sport associatif.
 
-Le but de notre projet est de rendre une application fonctionnelle pour ce journal, qui est principalement actif via sa page Facebook. Cette application pourra être utilisée par tout les utilisateurs de ce réseau afin de pouvoir parcourir les évènements passés/à venir, échanger sur les résultats de ces derniers via des commentaires, lire les éditions numériques du journal et recevoir des newsletters avec un condensé des éléments qui ont été publiés récemment sur la plateforme.
+Le but de notre projet est de rendre une application fonctionnelle pour ce journal, qui est principalement actif via sa page Facebook. Cette application pourra être utilisée par tous les utilisateurs de ce réseau afin de pouvoir parcourir les évènements passés/à venir, échanger sur les résultats de ces derniers via des commentaires, lire les éditions numériques du journal et recevoir des newsletters avec un condensé des éléments qui ont été publiés récemment sur la plateforme.
+
 
 
 ## 2. Parcours utilisateur
@@ -116,7 +117,7 @@ Scrapping des sites de journaux locaux pour afficher une image contenant le lien
 A terme (= après le rendu de la version finale du projet), nous souhaiterions implémenter un système de cookies publicitaires et/ou de publicité (type "Google Ads") sur le site, qui seraient désactivés pour les utilisateurs premium.
 
 
-##6 Notre mentor.
+## 6 Notre mentor.
 
 Notre mentor, vaillant le bien-aimé jeune disciple de Zuckerberg, j’ai nommé Steve, bachelier ingénieur informatique, passionné des métiers du numériques, de robotique et Top 1 à Fortnite.
 Il nous fait l’honneur d’être notre guide, notre lumière dans la pénombre du Ruby et du JS, que nous gravissons ligne par ligne tant bien que mal en espérant voir le bout de cette épique et interminable épopée.
