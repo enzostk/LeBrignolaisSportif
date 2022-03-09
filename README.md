@@ -108,27 +108,27 @@ L'envoi de la newsletter hebdomadaire se fera manuellement.<br><br>
 
 Pour la version finale du site, nous souhaitons implémenter les fonctions suivantes :
 
-Rendre le site responsive.
-Automatisation de l'envoi de la newsletter hebdomadaire.
-Articles premium (à déterminer par l’admin) dont la totalité du contenu n’est accessible qu’aux utilisateurs premium, les utilisateurs non premium ne pouvant lire qu’un teasing de quelques lignes de l’article.
-Possibilité pour les utilisateurs premium de choisir leurs sports favoris : affichage des articles et événements correspondants sur la page d’accueil, et envoi automatique d’un mail à la publication d’un article lié à ces sports. 
-Possibilité pour les utilisateurs premium de commenter les commentaires déjà publiés.
-Possibilité de réagir aux commentaires par une emote (façon Discord).
-Envoi d’un mail lorsque l’abonnement va arriver à expiration.
+- Rendre le site responsive.
+- Automatisation de l'envoi de la newsletter hebdomadaire.
+- Articles premium (à déterminer par l’admin) dont la totalité du contenu n’est accessible qu’aux utilisateurs premium, les utilisateurs non premium ne pouvant lire qu’un teasing de quelques lignes de l’article.
+- Possibilité pour les utilisateurs premium de choisir leurs sports favoris : affichage des articles et événements correspondants sur la page d’accueil, et envoi automatique d’un mail à la publication d’un article lié à ces sports. 
+- Possibilité pour les utilisateurs premium de commenter les commentaires déjà publiés.
+- Possibilité de réagir aux commentaires par une emote (façon Discord).
+- Envoi d’un mail lorsque l’abonnement va arriver à expiration.
 
 <b>OPTIONNEL :</b>
 
-Afficher les articles et événements sous forme de carrousel ;
-Possibilité pour les utilisateurs premium de créer une ‘liste de lecture’ avec articles et événements.
-Filtre des commentaires : remplacer les mots ‘indésirables’ par des **** et donner aux utilisateurs la possibilité de signaler un commentaire.
-Scrapping des sites de journaux locaux pour afficher une image contenant le lien vers l’article (= vers le site du journal en question, respect de la propriété intellectuelle).
+- Afficher les articles et événements sous forme de carrousel ;
+- Possibilité pour les utilisateurs premium de créer une ‘liste de lecture’ avec articles et événements.
+- Filtre des commentaires : remplacer les mots ‘indésirables’ par des `****` et donner aux utilisateurs la possibilité de signaler un commentaire.
+- Scrapping des sites de journaux locaux pour afficher une image contenant le lien vers l’article (= vers le site du journal en question, respect de la propriété intellectuelle).
 
 A terme (= après le rendu de la version finale du projet), nous souhaiterions implémenter un système de cookies publicitaires et/ou de publicité (type "Google Ads") sur le site, qui seraient désactivés pour les utilisateurs premium.<br>
 
 
 ## 6 Notre mentor
 
-Notre mentor, vaillant le bien-aimé jeune disciple de Zuckerberg, j’ai nommé Steve, bachelier ingénieur informatique, passionné des métiers du numériques, de robotique et Top 1 à Fortnite.
+Notre mentor, vaillant le bien-aimé jeune disciple de Zuckerberg, j’ai nommé Steve VANDEWIELE, bachelier ingénieur informatique, passionné des métiers du numériques, de robotique et Top 1 à Fortnite.
 Il nous fait l’honneur d’être notre guide, notre lumière dans la pénombre du Ruby et du JS, que nous gravissons ligne par ligne tant bien que mal en espérant voir le bout de cette épique et interminable épopée.
 Conseil et accompagnement il pourvoira, nos larmes il sèchera, un gros billet il encaissera.
 Merci à toi Steve VANDEWIELE alias @Reiner#5080
