@@ -32,7 +32,7 @@ Les utilisateurs non enregistrés sur l'application auront accès à une page le
 
 La BDD sera constituée sous PostgreSQL, composée des éléments suivants (“models” sous Rails) :
 
-__Users/Admins__
+_Users/Admins_
 
 Il sera possible de parcourir l’application de trois manières différentes :
 Utilisation sans connexion  ; 
