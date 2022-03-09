@@ -19,11 +19,13 @@ Le but de notre projet est de rendre une application fonctionnelle pour ce journ
 ### 2.1. Utilisateur premium.<br>
 
 | Accueil | Articles | Evénements | Journal numérique | dropdown: Editer le profil/Se déconnecter |<br>
+
 Les utilisateurs premium ont accès à tous les articles et évènements (ainsi qu'à leurs commentaires et la possibilité de commenter ceux-ci) ainsi qu’aux versions numériques (parution mensuelle) du journal. Ils auront la possibilité de définir des sports favoris afin d'être informés de la mise en ligne d'un article ou d'un événement de leurs sports favoris.
 
 ### 2.2. Utilisateur non-connecté.<br>
 
 | Accueil | Articles | Evénements | dropdown: S'enregistrer/Connexion |<br>
+
 Les utilisateurs non connectés ont accès aux articles et aux événements de la semaine (sans avoir la possibilité de les commenter).
 Les utilisateurs non enregistrés sur l'application auront accès à une page les menant à un formulaire d'inscription; s’inscrire sur le site implique la souscription à un abonnement.<br><br>
 
