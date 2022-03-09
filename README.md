@@ -1,8 +1,9 @@
 # LeBrignolaisSportif
-
+<h1 align ="center">
 						Présentation du Projet “Le Brignolais Sportif
 
-			![0X-zJJ4W_400x400](https://user-images.githubusercontent.com/97508821/157406994-75ccff48-8207-496b-9541-00a15b3c6e57.jpg)
+![0X-zJJ4W_400x400](https://user-images.githubusercontent.com/97508821/157406994-75ccff48-8207-496b-9541-00a15b3c6e57.jpg)
+</h1>
 <br>
 ## 1 Présentation.
 
